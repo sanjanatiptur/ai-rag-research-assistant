@@ -58,6 +58,14 @@ Response returned to UI
 - Retrieved context visualization
 
 ---
+## Key Concepts Demonstrated
+
+- Retrieval-Augmented Generation (RAG)
+- Embedding-based semantic search
+- Cosine similarity vector retrieval
+- Prompt grounding with retrieved context
+- Full-stack AI application architecture
+- Local LLM inference using Ollama
 
 ## Why Manual RAG?
 
